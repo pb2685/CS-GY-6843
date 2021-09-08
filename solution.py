@@ -31,6 +31,4 @@ def welcome_assignment_answers(question):
 # Complete all the questions.
 
 
-if __name__ == "__main__":
-    welcome_assignment_answers()
  
