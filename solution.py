@@ -32,6 +32,5 @@ def welcome_assignment_answers(question):
 
 
 if __name__ == "__main__":
-    #use this space to debug and verify that the program works
-    
+    welcome_assignment_answers()
  
