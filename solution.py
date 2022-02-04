@@ -1,5 +1,5 @@
 def welcome_assignment_answers(question):
-    if question == "In Slack, what is the secret passphrase posted in the #cyberfellows-computernetworking-fall2021 channel posted by a TA?":
+    if question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
         answer = "mTLS"
     elif question == "Are encoding and encryption the same? - Yes/No":
         answer = "No"
